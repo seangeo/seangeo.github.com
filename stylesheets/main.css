@@ -39,6 +39,7 @@ footer {
   color: #AFBBC8;
   font-size: 14px;
   padding-top: 20px;
+  padding-bottom: 40px;
 }
 
 footer a, footer a:visited {
@@ -53,11 +54,11 @@ footer a:hover {
 @media handheld, only screen and (max-width: 780px) {
   
   body {
-    font-size: 15px;
+    font-size: 14px;
   }
   
   header {
-    padding-top: 40px;
+    padding-top: 20px;
   }
   
   header img {
