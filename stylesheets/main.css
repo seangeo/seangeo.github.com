@@ -1,0 +1,51 @@
+body {
+  background: #fff;
+  color: #84909E;
+  font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+  font-size: 18px;
+  line-height: 1.5;
+  text-align: center;
+}
+
+h1 {
+  color: #515253;
+  letter-spacing: -1px;
+}
+
+a,a:visited {
+  color: #84909E;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #515253;
+}
+
+header {
+  padding-top: 80px;
+}
+
+header img {
+  opacity: 0.7;
+  width: 250px;
+}
+
+#main a, #main a:visited {
+  border-bottom: 1px dotted #84909E;
+}
+
+footer {
+  clear: both;
+  color: #AFBBC8;
+  font-size: 14px;
+  padding-top: 20px;
+}
+
+footer a, footer a:visited {
+  color: #AFBBC8;
+  border-bottom: 1px dotted #AFBBC8;
+}
+
+footer a:hover {
+  color: #84909E;
+}
